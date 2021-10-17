@@ -1,0 +1,243 @@
+To refresh this file, delete it and run /reload command again! Last updated: Oct 17, 2021 3:34:50 PM
+
+#vampirism:vampire
+- vampirism:vampire
+- vampirism:vampire_imob
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+- vampirism:vampire_baron
+- vampirism:task_master_vampire
+
+#forge:squid
+- minecraft:squid
+
+#vampirism:advanced_vampire
+- vampirism:advanced_vampire
+- vampirism:advanced_vampire_imob
+
+#iceandfire:scares_cockatrices
+
+#occultism:humans
+- #forge:villagers
+- minecraft:player
+
+#forge:horses
+- minecraft:horse
+
+#mowziesmobs:barakoa
+- mowziesmobs:barako
+- mowziesmobs:barakoa_sunblocker
+- mowziesmobs:barakoan_barakoana
+- mowziesmobs:barakoan_player
+- mowziesmobs:barakoa_sunblocker_player
+- mowziesmobs:barakoana
+- mowziesmobs:barakoaya
+
+#botania:cocoon/common
+- minecraft:pig
+- minecraft:cow
+- minecraft:chicken
+- minecraft:rabbit
+- minecraft:sheep
+
+#forge:pigs
+- minecraft:pig
+
+#iceandfire:fear_dragons
+- minecraft:cow
+- minecraft:sheep
+- minecraft:pig
+- minecraft:chicken
+- minecraft:cat
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:llama
+- minecraft:panda
+- minecraft:parrot
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:strider
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:hoglin
+
+#occultism:wild_hunt
+- occultism:wild_hunt_skeleton
+- occultism:wild_hunt_wither_skeleton
+
+#iceandfire:villagers
+- minecraft:villager
+- minecraft:wandering_trader
+
+#iceandfire:lightning_dragon_targets
+- #iceandfire:dragon_targets
+
+#forge:parrots
+- minecraft:parrot
+
+#botania:cocoon/rare_aquatic
+- minecraft:dolphin
+
+#forge:cows
+- minecraft:cow
+
+#botania:cocoon/rare
+- minecraft:horse
+- minecraft:donkey
+- minecraft:wolf
+- minecraft:ocelot
+- minecraft:cat
+- minecraft:parrot
+- minecraft:llama
+- minecraft:fox
+- minecraft:panda
+- minecraft:turtle
+- quark:frog?
+
+#iceandfire:sheep
+- minecraft:sheep
+
+#botania:shaded_mesa_blacklist
+- minecraft:ender_dragon
+- minecraft:wither
+- minecraft:item_frame
+- minecraft:end_crystal
+- minecraft:painting
+- botania:corporea_spark
+- botania:doppleganger
+- botania:flame_ring
+- botania:magic_landmine
+- botania:magic_missile
+- botania:mana_burst
+- botania:pink_wither
+- botania:spark
+- botania:player_mover
+
+#minecraft:raiders
+- minecraft:evoker
+- minecraft:pillager
+- minecraft:ravager
+- minecraft:vindicator
+- minecraft:illusioner
+- minecraft:witch
+
+#occultism:afrit_allies
+- minecraft:blaze
+
+#forge:villagers
+- minecraft:villager
+
+#ars_nouveau:disintegration_whitelist
+
+#iceandfire:dragon_targets
+- minecraft:cow
+- minecraft:sheep
+- minecraft:pig
+- minecraft:chicken
+- minecraft:fox
+- minecraft:horse
+- minecraft:mooshroom
+- minecraft:ocelot
+- minecraft:llama
+- minecraft:panda
+- minecraft:parrot
+- minecraft:polar_bear
+- minecraft:rabbit
+- minecraft:trader_llama
+- minecraft:wolf
+- minecraft:cat
+- minecraft:pillager
+- minecraft:cat
+- minecraft:strider
+- minecraft:piglin
+- minecraft:hoglin
+- minecraft:zoglin
+
+#botania:cocoon/common_aquatic
+- minecraft:cod
+- minecraft:salmon
+- minecraft:tropical_fish
+- minecraft:pufferfish
+- minecraft:squid
+- quark:crab?
+
+#mowziesmobs:barakoa_barako_aligned
+- mowziesmobs:barako
+- mowziesmobs:barakoa_sunblocker
+- mowziesmobs:barakoan_barakoana
+- mowziesmobs:barakoana
+- mowziesmobs:barakoaya
+
+#minecraft:impact_projectiles
+- #minecraft:arrows
+- minecraft:snowball
+- minecraft:fireball
+- minecraft:small_fireball
+- minecraft:egg
+- minecraft:trident
+- minecraft:dragon_fireball
+- minecraft:wither_skull
+- mekanism:flame
+
+#minecraft:beehive_inhabitors
+- minecraft:bee
+
+#iceandfire:chickens
+- minecraft:chicken
+
+#minecraft:skeletons
+- minecraft:skeleton
+- minecraft:stray
+- minecraft:wither_skeleton
+
+#iceandfire:cyclops_unliftables
+- minecraft:ravager
+
+#ars_nouveau:drygmy_blacklist
+- minecraft:iron_golem
+
+#minecraft:arrows
+- minecraft:arrow
+- minecraft:spectral_arrow
+
+#forge:zombies
+- minecraft:zombie
+- minecraft:zombie_villager
+- minecraft:husk
+- minecraft:drowned
+
+#iceandfire:fire_dragon_targets
+- #iceandfire:dragon_targets
+
+#vampirism:hunter
+- vampirism:hunter
+- vampirism:hunter_imob
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer
+- vampirism:hunter_trainer_dummy
+- vampirism:task_master_hunter
+
+#ars_nouveau:disintegration_blacklist
+
+#forge:chicken
+- minecraft:chicken
+
+#forge:bats
+- minecraft:bat
+
+#iceandfire:ice_dragon_targets
+- #iceandfire:dragon_targets
+- minecraft:turtle
+- minecraft:dolphin
+- minecraft:cod
+- minecraft:pufferfish
+- minecraft:salmon
+- minecraft:tropical_fish
+
+#vampirism:advanced_hunter
+- vampirism:advanced_hunter
+- vampirism:advanced_hunter_imob
