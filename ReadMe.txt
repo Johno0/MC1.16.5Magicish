@@ -19,6 +19,8 @@ INSTRUCTIONS YES YES! (this is entirely for windows)
 	in the minecraft launcher. Hover over the forge profile and click to file to open such.
 	copy the contents of "mods" in this folder into the mods folder in you minecraft directory.
 	close the file explorer
+	
+EXTRA: Also copy the kubejs folder into the .minecraft directory
 
 7: Check how much RAM your machine has (modded minecraft needs many much)
 	open task manager (ctr shift esc) click performance on the top bar then the memory tab.
@@ -30,7 +32,7 @@ INSTRUCTIONS YES YES! (this is entirely for windows)
 	next click more options at the bottom and scroll down to "JVM ARGUMENTS"
 	it will contain a big thing beginning with "-Xmx1G"
 	change the 1 to be a different number based off of how much RAM you have
-	Minimum is 6, recommended is 8, most I would suggest is 12. This number should not exceed how much ram your machine has
+	Minimum is 4, recommended is 6. This number should not exceed how much ram your machine has
 	if it is near that number then it's likely you should not be running many other programs while playing.
 	"-Xmx1G" should now look something like "-Xmx8G"
 	press save
@@ -43,14 +45,4 @@ INSTRUCTIONS YES YES! (this is entirely for windows)
 
 In the event of an error which you cannot solve yourself ask others for help.
 If that don't work I guess you can @ me
-
-
-
-
-
-
-UPDATES FROM LAST ONE BE
-copy the kubejs into the minecraft folder
-do same with mods
-cool dun
 	
