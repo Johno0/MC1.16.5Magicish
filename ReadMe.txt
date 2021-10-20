@@ -1,5 +1,10 @@
 INSTRUCTIONS YES YES! (this is entirely for windows)
 
+DOWNLOAD THIS HIT CODE THEN CLICK DOWNLOAD AS ZIP
+THEN IT BE LOCAL
+EXTRACT THAT
+OTHERWISE IF U KNO GIT DO THAT IT BETTER
+
 1: Check you have java. If you already know you hab then this will be fine. 
 	Can check by opening a command prompt and typing "java -version" this will give the version of java you have
 	or it will say the java command doesn't exist.
